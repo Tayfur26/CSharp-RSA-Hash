@@ -1,0 +1,21 @@
+c:\users\tayfur\documents\visual studio 2013\Projects\Test\Deneme\bin\Debug\Deneme.exe.config
+c:\users\tayfur\documents\visual studio 2013\Projects\Test\Deneme\bin\Debug\Deneme.exe
+c:\users\tayfur\documents\visual studio 2013\Projects\Test\Deneme\bin\Debug\Deneme.pdb
+c:\users\tayfur\documents\visual studio 2013\Projects\Test\Deneme\obj\Debug\Deneme.csprojResolveAssemblyReference.cache
+c:\users\tayfur\documents\visual studio 2013\Projects\Test\Deneme\obj\Debug\Deneme.Form1.resources
+c:\users\tayfur\documents\visual studio 2013\Projects\Test\Deneme\obj\Debug\Deneme.Properties.Resources.resources
+c:\users\tayfur\documents\visual studio 2013\Projects\Test\Deneme\obj\Debug\Deneme.csproj.GenerateResource.Cache
+c:\users\tayfur\documents\visual studio 2013\Projects\Test\Deneme\obj\Debug\Deneme.exe
+c:\users\tayfur\documents\visual studio 2013\Projects\Test\Deneme\obj\Debug\Deneme.pdb
+C:\Users\Tayfur\documents\visual studio 2013\Projects\Test\Deneme\obj\Debug\Deneme.Form2.resources
+G:\Proje\E-imza\Test\Deneme\bin\Debug\Deneme.exe.config
+G:\Proje\E-imza\Test\Deneme\obj\Debug\Deneme.exe
+G:\Proje\E-imza\Test\Deneme\obj\Debug\Deneme.pdb
+G:\Proje\E-imza\Test\Deneme\bin\Debug\Deneme.exe
+G:\Proje\E-imza\Test\Deneme\bin\Debug\Deneme.pdb
+G:\Proje\E-imza\Test\Deneme\obj\Debug\Deneme.csprojAssemblyReference.cache
+G:\Proje\E-imza\Test\Deneme\obj\Debug\Deneme.Form1.resources
+G:\Proje\E-imza\Test\Deneme\obj\Debug\Deneme.Form2.resources
+G:\Proje\E-imza\Test\Deneme\obj\Debug\Deneme.Properties.Resources.resources
+G:\Proje\E-imza\Test\Deneme\obj\Debug\Deneme.csproj.GenerateResource.cache
+G:\Proje\E-imza\Test\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
